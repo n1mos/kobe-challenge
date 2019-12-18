@@ -66,3 +66,7 @@ Testing is done with [jest](https://jestjs.io/) framework and [enzyme](https://a
 
 ### Running tests
 - `yarn test` or `yarn test -u` if you've made any updates.
+
+## Improvements
+- Header search input not working, `/movies/upcoming` endpoint doesn't feature a text search function, would need to use a different endpoint.
+- Images could be served with higher resolution for retina displays.
