@@ -1,2 +1,0 @@
-Teria usado um logo SVG
-Não existe funcionalidade de busca por texto na API de upcoming
