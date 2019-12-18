@@ -1,8 +1,8 @@
-<div style="padding: 10px 0 .3em;margin-bottom: 20px;border-bottom: 1px solid #eaecef">
-    <img style="vertical-align: bottom;margin-right: 15px" src="App/Assets/Images/logo.png" alt="Logo" width="40">
-    <span style="font-size: 40px; line-height: 60px">Kobe Code Challenge</span>
+<div align="center">
+    <img src="App/Assets/Images/logo.png" alt="Logo" width="120">
 </div>
 
+# Kobe Code Challenge
 
 This project is a code challenge presented to me by [Kobe.io](https://kobe.io/) and it consists of a [React Native](https://facebook.github.io/react-native/) app that allows the user to scroll through upcoming movies provided by [TMDb](https://developers.themoviedb.org/3) and view details like movie name, genre, release date and overview.
 
