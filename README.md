@@ -34,8 +34,6 @@ This project is a code challenge presented to me by [Kobe.io](https://kobe.io/) 
 
 ## Installation
 
-To create a new project using the boilerplate:
-
 1. Clone this repository.
 2. Install the dependencies by running `yarn`.
 
